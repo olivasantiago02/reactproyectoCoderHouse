@@ -1,0 +1,38 @@
+*{
+  background-color: cornsilk;
+  margin: 0px;
+}
+
+.divcart{
+  display: grid;
+
+  padding: 20px;
+  background-color: rgb(38, 35, 35);
+}
+.title1{
+  padding: 20px;
+  text-align: center;
+  color: darkgray;
+  background-color: seagreen;
+}
+.cartwidget{
+  color: rgba(0, 0, 0, 0.67);
+  
+}
+.greeting{
+  text-align: center;
+  color: black;
+}
+
+.boton1{
+ background-color: black;
+ color: aliceblue;
+}
+.boton2{
+  background-color: rgb(86, 42, 86);
+  color: aliceblue;
+}
+.boton3{
+  background-color: hotpink;
+  color: aliceblue;
+}
